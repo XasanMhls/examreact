@@ -7,7 +7,7 @@ export default function App() {
   const [timeLeft, setTimeLeft] = useState(30);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [bgGradient, setBgGradient] = useState("linear-gradient(to right, #a8edea, #fed6e3)");
-//asdadsa
+//asdad
   const gradients = [
     "linear-gradient(to right, #a8edea, #fed6e3)",
     "linear-gradient(to right, #ffecd2, #fcb69f)",
